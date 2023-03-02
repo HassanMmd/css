@@ -1,0 +1,23 @@
+body {
+    background-color: antiquewhite;
+}
+
+.pargragh {
+    color: blue;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: large;
+}
+
+.border {
+    border: 1px solid purple;
+}
+
+.image {
+    border-radius: 20%;
+}
+
+.smile {
+    height: auto;
+    width: 200px;
+    border-radius: 60%;
+}

@@ -1,0 +1,19 @@
+h1 {
+  color: red;
+}
+
+h2 {
+  color: rgb(100, 150, 60);
+}
+
+h3 {
+  color: #FF7805;
+}
+
+h4 {
+  color: hsl(241, 100%, 50%);
+}
+
+div {
+  background-color: yellow;
+}
