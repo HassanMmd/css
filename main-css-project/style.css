@@ -127,6 +127,8 @@
 }
 
 .info {
+    padding-top: 50px;
+    padding-bottom: 50px;
     font-family: 'Roboto-Bold', sans-serif, Georgia;
     font-size: 36px;
     color: #1F2937;
