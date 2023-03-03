@@ -1,17 +1,18 @@
 @font-face {
-    font-family: 'Roboto';
+    font-family: 'Roboto-extra-bold';
     src: url(./fonts/Roboto/Roboto-Black.ttf) format('truetype');
-    font-weight: normal;
+    font-weight: 900;
 }
 
 @font-face {
-    font-family: 'Roboto-Bold';
-    src: url(./fonts/Roboto/Roboto-Bold.ttf) format('truetype');
-    font-weight: bold;
+    font-family: 'Roboto-regular';
+    src: url(./fonts/Roboto/Roboto-Regular.ttf) format('truetype');
+    font-weight: 400;
 }
 @font-face {
     font-family: 'Roboto-LightItalic';
     src: url(./fonts/Roboto/Roboto-LightItalic.ttf) format('truetype');
+    font-weight: 300;
 }
 
 .main-section {
@@ -43,7 +44,7 @@
 }
 
 .header-logo {
-    font-family: 'Roboto', sans-serif, Georgia;
+    font-family: 'Roboto-regular', sans-serif, Georgia;
     color: #F9FAF8;
     font-size: 24px;
     display: flex;
@@ -70,7 +71,7 @@
 }
 
 .links a {
-    font-family: 'Roboto', sans-serif, Georgia;
+    font-family: 'Roboto-regular', sans-serif, Georgia;
     color: #E5E7EB;
 }
 
@@ -86,7 +87,7 @@
 }
 
 .content-first-text {
-    font-family: 'Roboto-Bold', sans-serif, Georgia;
+    font-family: 'Roboto-extra-bold', sans-serif, Georgia;
     font-size: 48px;
     color: #F9FAF8;
 }
@@ -98,7 +99,7 @@
 }
 
 .header-button {
-    font-family: 'Roboto', sans-serif, Georgia;
+    font-family: 'Roboto-regular', sans-serif, Georgia;
     color: white;
     margin-top: 10px;
     padding-top: 5px;
@@ -111,6 +112,7 @@
 }
 
 .image-section1 {
+    border: 4px solid #3882F6;
     border-radius: 10%;
     height: auto;
     width: 200px;
@@ -129,7 +131,7 @@
 .info {
     padding-top: 50px;
     padding-bottom: 50px;
-    font-family: 'Roboto-Bold', sans-serif, Georgia;
+    font-family: 'Roboto-extra-bold', sans-serif, Georgia;
     font-size: 36px;
     color: #1F2937;
 }
@@ -176,7 +178,7 @@
 }
 
 .upper-section {
-    font-family: 'Roboto', sans-serif, Georgia;
+    font-family: 'Roboto-regular', sans-serif, Georgia;
     border-radius: 1%;
     padding-top: 40px;
     padding-bottom: 40px;
@@ -195,7 +197,7 @@
 }
 
 .down-button {
-    font-family: 'Roboto', sans-serif, Georgia;
+    font-family: 'Roboto-regular', sans-serif, Georgia;
     color: white;
     border-radius: 10%;
     color: white;
